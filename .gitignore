@@ -1,0 +1,41 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+*.pdb
+*.egg-info/
+*.egg
+*.log
+
+# Entorno virtual
+venv/
+ENV/
+env/
+
+# Archivos de configuración locales
+.env
+.DS_Store
+
+# Node.js
+node_modules/
+build/
+dist/
+.npm/
+
+# React
+frontend/build/
+frontend/node_modules/
+
+# Otros
+*.sqlite3
+*.db
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Archivos de sistema
+Thumbs.db
+Desktop.ini 
